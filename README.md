@@ -28,7 +28,7 @@ There is one notebook "AirBNB.ipynb" available. It holds all the necessary code 
 
 ## Results
 
-As you may have noticed, the last step of data analysis is missing in the attached pyhton-notebook. I did the Communication part in the post available [here](https://medium.com/).
+As you may have noticed, the last step of data analysis is missing in the attached pyhton-notebook. I did the Communication part in the post available [here](https://medium.com/@julia.gilly/can-i-predict-a-price-for-a-new-airbnb-room-cf8d24d5483d).
 
 ## Licensing, Authors, Acknowledgements<a name="author"></a>
 
